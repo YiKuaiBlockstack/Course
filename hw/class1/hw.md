@@ -7,3 +7,4 @@
 |naige.id|[网址](https://sennmac-animal-kingdom.netlify.com)|
 |bingw.id|[网址](https://savinganimalkingdom.netlify.com/)|
 |sloan.id|[网址](https://blockstack-sloan-class1.netlify.com/)|
+|hildolfrx.id|[网址](https://hildolfrx.netlify.com/)|
