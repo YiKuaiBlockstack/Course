@@ -12,3 +12,4 @@
 |184MNk1tsVU9CjHCxrkumWXWPTdGuRy9Eu|hildolfrx.id.blockstack||X|
 |1DpEKYJUjenihawbbDDBiKSCzxo9XAvXSe|flyqflyq.id.blockstack|flyqflyq.id|X|
 |1NWGk1MBxtDq2P4huCDTxsqZ9ZNf1r33CA|bing0113.id.blockstack|bingw.id|X|
+|1FiVh1gRWDvqnnvrvgxpyPpdovrtedX2TP|tonshi.id.blockstack（还在部署当中）|（未注册）||
