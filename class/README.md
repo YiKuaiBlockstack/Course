@@ -10,4 +10,4 @@
 |14n1Jibd4iv4gXwX781dobT1JSLf83VE6z|__caos__.id.blockstack||X|
 |1JqRdXXxCQJ6qP2ajLPyevV67AECqhNV3q|zhanglianghui.id.blockstack|zlh.id|X|
 |184MNk1tsVU9CjHCxrkumWXWPTdGuRy9Eu|hildolfrx.id.blockstack||X|
-|1DpEKYJUjenihawbbDDBiKSCzxo9XAvXSe|flyqflyq.id.blockstack||X|
+|1DpEKYJUjenihawbbDDBiKSCzxo9XAvXSe|flyqflyq.id.blockstack|flyqflyq.id|X|
