@@ -9,4 +9,4 @@
 |sloan.id|[网址](https://blockstack-sloan-class1.netlify.com/)|
 |cosine.id|[网址](https://cosine-animalkingdom.netlify.com/)|
 |hildolfrx.id|[网址](https://hildolfrx.netlify.com/)|
-
+|nakadaole.id|[网址](https://nakadaole-kingdom.netlify.com/)|
