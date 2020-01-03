@@ -1,5 +1,5 @@
 # Class2 作业
 
-- 根据视频搭建基于Blockstack登陆的应用工程，工程以react作为主框架
-- 在自己Github中建立一个库，并将该库搭建在netlify上
-- 将完成后的Github库的地址与netlify的地址上传到本库中的hw/class2/hw.md 中
+- 根据两次课程的内容来构思一下你想做的去中心化产品。
+- 新建一个github仓库，将构思好的产品流程图编辑在该github仓库的README中
+- 跑通hello-world-tutorial，并将其进行改造，完成仓库1中产品的登陆入口模块
