@@ -11,3 +11,6 @@
 |hildolfrx.id|[网址](https://hildolfrx.netlify.com/)|
 |nakadaole.id|[网址](https://nakadaole-kingdom.netlify.com/)|
 |hongjundashu.id|[网址](https://reverent-murdock-4d9a82.netlify.com/)|
+|nisenasdf.id.blockstack|[网址](https://animal-kingdom-blockstack-nisen.netlify.com/)|
+|seasidelee.id|[网址](https://animalkingdom-lee.netlify.com/)|
+
