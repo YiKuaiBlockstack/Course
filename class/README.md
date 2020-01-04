@@ -14,4 +14,5 @@
 |1NWGk1MBxtDq2P4huCDTxsqZ9ZNf1r33CA|bing0113.id.blockstack|bingw.id|X|
 |1FiVh1gRWDvqnnvrvgxpyPpdovrtedX2TP|tonshi.id.blockstack（还在部署当中）|（未注册）||
 |1P1MriWQBbuHAB63QDUpLoVJmaFKyWeiWq|nakadaole.id.blockstack|nakadaole.id||
+|1EQxwUxzbYvGLZAk32LtJDZ5khuzewPZ6K| nisenasdf.id.blockstack |not yet, waiting for btc||
 |12GhSgnnkVA8LXzYbfumkzjTBKnDBu2sTL|seasidelee.id.blockstack|lokija.id||
