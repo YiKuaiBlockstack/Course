@@ -2,4 +2,4 @@
 
 | BNS域名 | github repo address|
 |---|---|
-| demo.id | ***.github.com/*** |
+| cosine.id | [DStory](https://github.com/caosbad/DStory) |
