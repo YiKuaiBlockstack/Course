@@ -17,3 +17,19 @@
 |1NSimX6FB5SN5gVmTwNiAecUDMhEn671P9|hongjundashu.id.blockstack|hongjundashu.id||
 |1EQxwUxzbYvGLZAk32LtJDZ5khuzewPZ6K| nisenasdf.id.blockstack |not yet, waiting for btc||
 |12GhSgnnkVA8LXzYbfumkzjTBKnDBu2sTL|seasidelee.id.blockstack|lokija.id||
+
+
+## 产品仓库
+
+| BNS域名 | github repo address| 公网访问地址（如netlify） |
+|---|---|---|
+| demo.id | ***.github.com/*** |
+| cosine.id | [DStory](https://github.com/caosbad/DStory) |
+| zlh.id | [DBlog](https://github.com/zhanglianghui/DBlog) |
+| hildolfrx.id | [Denote](https://github.com/Satoshi-Kusumoto/denote) |
+| sloan.id | [DAirdrop](https://github.com/sloan8633/blockstack-sloan-hw2) |
+| nisenasdf.id.blockstack | [blockstack-twitter](https://github.com/imnisen/blockstack-twitter) |
+| nakadaole.id | [Dortfolio](https://github.com/NakaDaoLe/Dortfolio) |
+| seasidelee.id.blockstack | [blockhath](https://github.com/SeasideLee/BlockHath) |
+| hongjundashu.id |  | [websites](https://5e18f92211a312000a3aa6ea--agitated-austin-ee47cb.netlify.com/) |
+| bitrocks.id | [Bitalk](https://github.com/bitrocks/bitalk) |
