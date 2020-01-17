@@ -26,7 +26,7 @@
 | demo.id | ***.github.com/*** ||
 | cosine.id | [DStory](https://github.com/caosbad/DStory) ||
 | zlh.id | [DBlog](https://github.com/zhanglianghui/DBlog) ||
-| hildolfrx.id | [Denote](https://github.com/Satoshi-Kusumoto/denote) ||
+| hildolfrx.id | [Denote](https://github.com/Satoshi-Kusumoto/denote) |[Denote on netlify](https://hildolfrx.netlify.com/)|
 | sloan.id | [DAirdrop](https://github.com/sloan8633/blockstack-sloan-hw2) ||
 | nisenasdf.id.blockstack | [blockstack-twitter](https://github.com/imnisen/blockstack-twitter) ||
 | nakadaole.id | [Dortfolio](https://github.com/NakaDaoLe/Dortfolio) ||
