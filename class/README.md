@@ -27,7 +27,7 @@
 | cosine.id | [DStory](https://github.com/caosbad/DStory) ||
 | zlh.id | [DBlog](https://github.com/zhanglianghui/DBlog) ||
 | hildolfrx.id | [Denote](https://github.com/Satoshi-Kusumoto/denote) |[Denote on netlify](https://hildolfrx.netlify.com/)|
-| sloan.id | [DAirdrop](https://github.com/sloan8633/blockstack-sloan-hw2) ||
+| sloan.id | [DAirdrop](https://github.com/sloan8633/dairdrop) | [DAirdrop](https://dairdrop.netlify.com/)|
 | nisenasdf.id.blockstack | [blockstack-twitter](https://github.com/imnisen/blockstack-twitter) ||
 | nakadaole.id | [Dortfolio](https://github.com/NakaDaoLe/Dortfolio) ||
 | seasidelee.id.blockstack | [blockhath](https://github.com/SeasideLee/BlockHath) ||
